@@ -141,6 +141,8 @@ Final Score → [0–100]
 </details>
 
 ---
+## 🚀 Live Demo  
+https://shadow-city.onrender.com
 
 # 🧪 Try This (Demo Test)
 
